@@ -1,0 +1,109 @@
+O projeto se trata de um site para divulgar a comunidade Café com Lenita.
+
+Lenita é uma terapeuta que com foco em autoconhecimento, transformação pessoal e crescimento emocional e espiritual.
+
+
+A comunidade reúne pessoas — principalmente mulheres chamadas de Semeadoras — que buscam:
+
+* autoconhecimento
+* transformação pessoal
+* clareza sobre a própria vida
+* crescimento em áreas como relacionamentos, saúde e prosperidade
+* A proposta é olhar para a vida de forma mais profunda e encontrar caminhos para superar bloqueios e ampliar a consciência.
+
+Como a comunidade funciona com:
+
+Encontros ao vivo (normalmente no segundo e quarto sábado do mês)
+Aulas e reflexões sobre temas de autoconhecimento
+Convidados especiais em alguns encontros
+Leituras de livros (ex.: O Milagre da Manhã)
+Conteúdos gravados disponíveis na área de membros
+Interação via WhatsApp e outros canais.
+
+
+Alguns elementos importantes da identidade da comunidade:
+as participantes são chamadas de Semeadoras
+há forte incentivo à troca de experiências entre as participantes
+o ambiente busca ser acolhedor, reflexivo e transformador
+o conteúdo costuma unir espiritualidade, emoções e desenvolvimento pessoal.
+
+
+
+Público-alvo principal
+
+Mulheres adultas que buscam autoconhecimento e transformação pessoal.
+
+Perfil geral
+Mulheres entre 30 e 60 anos
+Interessadas em desenvolvimento pessoal e espiritual
+Abertas a terapias integrativas
+Buscando clareza sobre a própria vida
+Desejam melhorar áreas como:
+relacionamentos
+prosperidade financeira
+saúde emocional
+propósito de vida
+Momento de vida dessas mulheres
+Geralmente são mulheres que:
+Sentem que algo na vida precisa mudar
+Já passaram por desafios emocionais ou familiares
+Estão em um processo de despertar ou expansão de consciência
+Querem compreender padrões de vida (familiares, emocionais, financeiros)
+
+
+
+
+
+O objetivo do site é divulgar o trabalho da comunidade de engajar novas participantes.
+
+
+O site deve fazer uma apresentação da Lenita e comunidade
+
+O site pode apresentar fotos e vídeos.
+
+O site deve conter imagens inspiradores e textos reflexivos.
+
+Deve haver uma seção para depoimentos.
+
+Deve ter links para o hotmart e whatsapp
+
+A Lenita, gostou desse site: no qual podemos insperiar esse trabalho: https://cafecomlobas.com.br/v7/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAOuInlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaewjgAd23kdTIVdFT2ScjjUf9kfobVVMVC6BudJ-HtkQsTSRv57Su122tBRhQ_aem_9T_AKhGDx3PeP0-X9Ktoww
+
+
+
+
+
+Termos como cura e constelação, vamos evitar nesse momento.
+
+
+
+
+
+Como tecnologias vamos utiliza HTML CSS e javascript.
+Se necessário, algumas bibliotecas para animação desde que gratuitas e de fácil acesso.
+
+
+Fique livre para propor melhorias e coisas interessantes, serão bem vindas
+
+
+Por hora vamos usar placeholders para imagens e vídeos
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+Acabei de incluir mais um arquivo com o logotipo.
+tenho também esse vídeo onde a Lenita apresenta a comunidade que pode ser aproveitado: https://youtu.be/L4Danhuouyk
+
+
+crie outra versão do site, com outras cores. Talvez cores mais vivas, mas ainda rementendo à café. Se possível utilizar tons dourados.
+
+as ideias de semeadoras/sementes/semear pode ser aproveitadas.
+
+
+
