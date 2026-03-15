@@ -1,0 +1,22 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="30" y1="20" x2="190" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A4525"/>
+      <stop offset="1" stop-color="#3B1F14"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="59" y1="38" x2="161" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5D89C"/>
+      <stop offset="1" stop-color="#C9942F"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="200" height="200" rx="48" fill="url(#bg)"/>
+  <circle cx="110" cy="110" r="72" fill="rgba(255,255,255,0.03)"/>
+  <path d="M110 142C110 115 96 93 75 79" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M110 142C110 115 124 93 145 79" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M110 145V77" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+  <path d="M109 79C91 80 77 67 76 49C94 48 108 61 109 79Z" fill="url(#gold)"/>
+  <path d="M111 79C129 80 143 67 144 49C126 48 112 61 111 79Z" fill="url(#gold)"/>
+  <path d="M75 111C89 115 101 107 105 93C91 88 79 96 75 111Z" fill="url(#gold)" opacity="0.95"/>
+  <path d="M145 111C131 115 119 107 115 93C129 88 141 96 145 111Z" fill="url(#gold)" opacity="0.95"/>
+  <circle cx="110" cy="151" r="10" fill="url(#gold)"/>
+</svg>
